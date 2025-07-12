@@ -1,6 +1,6 @@
 # locale-servic
 
-language
+- language 语言包
   - de
   - en
   - es
@@ -11,10 +11,10 @@ language
   - ro
   - sv
   - zh
-service
+- service              工具
   - public
-  - client.js
-  - file-service.js
-  - index.js
-  - main.js
+  - client.js          翻译
+  - file-service.js    读取 & 写入
+  - index.js           接口
+  - main.js            执行函数
   - package.json
